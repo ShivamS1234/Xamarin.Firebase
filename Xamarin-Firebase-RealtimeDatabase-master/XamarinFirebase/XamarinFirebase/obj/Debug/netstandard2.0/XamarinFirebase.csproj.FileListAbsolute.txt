@@ -1,0 +1,24 @@
+C:/Users/susai/Desktop/VisualStudio Source/XamarinFirebase/XamarinFirebase/XamarinFirebase/bin/Debug/netstandard2.0/XamarinFirebase.deps.json
+C:/Users/susai/Desktop/VisualStudio Source/XamarinFirebase/XamarinFirebase/XamarinFirebase/bin/Debug/netstandard2.0/XamarinFirebase.dll
+C:/Users/susai/Desktop/VisualStudio Source/XamarinFirebase/XamarinFirebase/XamarinFirebase/bin/Debug/netstandard2.0/XamarinFirebase.pdb
+C:/Users/susai/Desktop/VisualStudio Source/XamarinFirebase/XamarinFirebase/XamarinFirebase/obj/Debug/netstandard2.0/XamarinFirebase.csprojAssemblyReference.cache
+C:/Users/susai/Desktop/VisualStudio Source/XamarinFirebase/XamarinFirebase/XamarinFirebase/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/susai/Desktop/VisualStudio Source/XamarinFirebase/XamarinFirebase/XamarinFirebase/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/Users/susai/Desktop/VisualStudio Source/XamarinFirebase/XamarinFirebase/XamarinFirebase/obj/Debug/netstandard2.0/XamarinFirebase.csproj.CoreCompileInputs.cache
+C:/Users/susai/Desktop/VisualStudio Source/XamarinFirebase/XamarinFirebase/XamarinFirebase/obj/Debug/netstandard2.0/XamarinFirebase.AssemblyInfoInputs.cache
+C:/Users/susai/Desktop/VisualStudio Source/XamarinFirebase/XamarinFirebase/XamarinFirebase/obj/Debug/netstandard2.0/XamarinFirebase.AssemblyInfo.cs
+C:/Users/susai/Desktop/VisualStudio Source/XamarinFirebase/XamarinFirebase/XamarinFirebase/obj/Debug/netstandard2.0/XamarinFirebase.dll
+C:/Users/susai/Desktop/VisualStudio Source/XamarinFirebase/XamarinFirebase/XamarinFirebase/obj/Debug/netstandard2.0/XamarinFirebase.pdb
+C:/Users/susai/Desktop/VisualStudio Source/XamarinFirebase/XamarinFirebase/XamarinFirebase/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/vinaytiwari/Downloads/Firebase_Sample/Xamarin-Firebase-RealtimeDatabase-master/XamarinFirebase/XamarinFirebase/bin/Debug/netstandard2.0/XamarinFirebase.deps.json
+/Users/vinaytiwari/Downloads/Firebase_Sample/Xamarin-Firebase-RealtimeDatabase-master/XamarinFirebase/XamarinFirebase/bin/Debug/netstandard2.0/XamarinFirebase.dll
+/Users/vinaytiwari/Downloads/Firebase_Sample/Xamarin-Firebase-RealtimeDatabase-master/XamarinFirebase/XamarinFirebase/bin/Debug/netstandard2.0/XamarinFirebase.pdb
+/Users/vinaytiwari/Downloads/Firebase_Sample/Xamarin-Firebase-RealtimeDatabase-master/XamarinFirebase/XamarinFirebase/obj/Debug/netstandard2.0/XamarinFirebase.csprojAssemblyReference.cache
+/Users/vinaytiwari/Downloads/Firebase_Sample/Xamarin-Firebase-RealtimeDatabase-master/XamarinFirebase/XamarinFirebase/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/vinaytiwari/Downloads/Firebase_Sample/Xamarin-Firebase-RealtimeDatabase-master/XamarinFirebase/XamarinFirebase/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/vinaytiwari/Downloads/Firebase_Sample/Xamarin-Firebase-RealtimeDatabase-master/XamarinFirebase/XamarinFirebase/obj/Debug/netstandard2.0/XamarinFirebase.csproj.CoreCompileInputs.cache
+/Users/vinaytiwari/Downloads/Firebase_Sample/Xamarin-Firebase-RealtimeDatabase-master/XamarinFirebase/XamarinFirebase/obj/Debug/netstandard2.0/XamarinFirebase.AssemblyInfoInputs.cache
+/Users/vinaytiwari/Downloads/Firebase_Sample/Xamarin-Firebase-RealtimeDatabase-master/XamarinFirebase/XamarinFirebase/obj/Debug/netstandard2.0/XamarinFirebase.AssemblyInfo.cs
+/Users/vinaytiwari/Downloads/Firebase_Sample/Xamarin-Firebase-RealtimeDatabase-master/XamarinFirebase/XamarinFirebase/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/vinaytiwari/Downloads/Firebase_Sample/Xamarin-Firebase-RealtimeDatabase-master/XamarinFirebase/XamarinFirebase/obj/Debug/netstandard2.0/XamarinFirebase.dll
+/Users/vinaytiwari/Downloads/Firebase_Sample/Xamarin-Firebase-RealtimeDatabase-master/XamarinFirebase/XamarinFirebase/obj/Debug/netstandard2.0/XamarinFirebase.pdb

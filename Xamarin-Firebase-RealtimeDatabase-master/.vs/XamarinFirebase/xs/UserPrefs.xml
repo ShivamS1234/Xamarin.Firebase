@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{25FFD655-1D38-49D7-9481-EE3545772957}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamarinFirebase.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.ItemProperties.XamarinFirebase.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MultiItemStartupConfigurations />
+</Properties>
